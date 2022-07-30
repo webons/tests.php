@@ -1,0 +1,13 @@
+{
+  "name": "woi/composer-test",
+  "description": "Library XY",
+  "type": "library",
+  "license": "GPL-3.0-only",
+  "authors": [
+     {
+         "name": "John Doe",
+         "email": "john@example.com"
+     }
+  ],
+  "require": {}
+}
