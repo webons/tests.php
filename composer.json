@@ -2,6 +2,7 @@
   "name": "woi/tests.php",
   "description": "Library XY",
   "type": "library",
+  "version": "0.1.0",
   "license": "MIT",
   "authors": [
      {
