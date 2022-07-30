@@ -1,12 +1,12 @@
 {
-  "name": "woi/composer-test",
+  "name": "woi/tests.php",
   "description": "Library XY",
   "type": "library",
-  "license": "GPL-3.0-only",
+  "license": "MIT",
   "authors": [
      {
-         "name": "John Doe",
-         "email": "john@example.com"
+         "name": "Domain",
+         "email": "mail@domain.tld"
      }
   ],
   "require": {}
